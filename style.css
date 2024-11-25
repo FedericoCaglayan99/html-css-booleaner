@@ -1,0 +1,108 @@
+
+  
+header {
+    background-color: #4EA0FF;
+    background-image: url(./img/pattern.png);
+  width: 100%;
+  height: 180px;
+
+}
+header img {
+    width: 13%;
+    padding-top: 100px;
+    padding-left: 15px;
+}
+h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+#Booleaner {
+    font-size: 21px;
+    color: gray;
+    
+}
+#p1 {
+    color: gray;
+    
+}
+#blue {
+    color: #56ddff;
+}
+.Tim {
+    
+    width: 100%;
+}
+#Tim1 {
+    width: 900px;
+    
+    
+}
+#Tim2 {
+    width:770px ;
+}
+p {
+    margin: 3px;
+}
+article {
+    font-size: 20px;
+    padding-top: 35px;
+}
+ul {
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+.tabella {
+    width: 100%;
+    border-collapse: collapse; 
+    
+
+  }
+  
+  .tabella td {
+    padding: 15px;
+    text-align: center;
+    
+  }
+  .tr1 {
+    background-color: #4EA0FF;
+    color: white;
+   
+  }
+.tr2 {
+    background-color: #B1E5F2;
+}
+.tr3 {
+    background-color: #B1E5F2;
+}
+#p2 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+.evidenziatore {
+    background-color: yellow;
+}
+h3 {
+    font-size: 25px;
+    padding-top: 20px;
+    color: gray;
+}
+.footerdiv {
+    width: 250px;
+    height: 200px;
+    background-image: url(./img/monitor.jpg);
+}
+.footerdivv {
+    width: 250px;
+    height: 200px;
+    background-image: url(./img/graph.jpg);
+    margin-top: 10px;
+}
+.loremi {
+    color: gray;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 22px;
+    color: white;
+    
+}
